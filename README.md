@@ -7,19 +7,19 @@ Project Overview
 Breast cancer is a significant health concern, and early detection is crucial for effective treatment. This project aims to predict whether a breast cancer case is benign or malignant using machine learning techniques, specifically SVM models. The data consists of 699 recorded cases with 11 features, where the target variable indicates the class (0 for benign, 1 for malignant).
 
 Data Description
-The dataset contains the following columns:
+The dataset contains the following columns:<br />
 
-#1.Case number: Identifier for each case.<br />
-#2.Clump Thickness: Measurement of the thickness of cell clumps.
-#3.Uniformity of Cell Size: Consistency in cell size.
-Uniformity of Cell Shape: Consistency in cell shape.
-Marginal Adhesion: Degree of adhesion between cells.
-Single Epithelial Cell Size: Size of single epithelial cells.
-Bare Nuclei: Count of bare nuclei.
-Bland Chromatin: Texture of the cell's chromatin.
-Normal Nucleoli: Count of normal nucleoli.
-Mitoses: Count of mitotic cells.
-Class: Target variable (0 for benign, 1 for malignant).
+1.Case number: Identifier for each case.<br />
+2.Clump Thickness: Measurement of the thickness of cell clumps.<br />
+3.Uniformity of Cell Size: Consistency in cell size.<br />
+4.Uniformity of Cell Shape: Consistency in cell shape.<br />
+5.Marginal Adhesion: Degree of adhesion between cells.<br />
+6.Single Epithelial Cell Size: Size of single epithelial cells.<br />
+7.Bare Nuclei: Count of bare nuclei.<br />
+8.Bland Chromatin: Texture of the cell's chromatin.<br />
+9.Normal Nucleoli: Count of normal nucleoli.<br />
+10.Mitoses: Count of mitotic cells.<br />
+11.Class: Target variable (0 for benign, 1 for malignant).<br />
 
 
 Project Details
