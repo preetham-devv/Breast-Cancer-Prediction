@@ -9,7 +9,7 @@ Breast cancer is a significant health concern, and early detection is crucial fo
 Data Description
 The dataset contains the following columns:
 
-#1.Case number: Identifier for each case./n
+#1.Case number: Identifier for each case.<br />
 #2.Clump Thickness: Measurement of the thickness of cell clumps.
 #3.Uniformity of Cell Size: Consistency in cell size.
 Uniformity of Cell Shape: Consistency in cell shape.
