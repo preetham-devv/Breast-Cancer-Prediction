@@ -9,9 +9,9 @@ Breast cancer is a significant health concern, and early detection is crucial fo
 Data Description
 The dataset contains the following columns:
 
-Case number: Identifier for each case.
-Clump Thickness: Measurement of the thickness of cell clumps.
-Uniformity of Cell Size: Consistency in cell size.
+#1.Case number: Identifier for each case.
+#2.Clump Thickness: Measurement of the thickness of cell clumps.
+#3.Uniformity of Cell Size: Consistency in cell size.
 Uniformity of Cell Shape: Consistency in cell shape.
 Marginal Adhesion: Degree of adhesion between cells.
 Single Epithelial Cell Size: Size of single epithelial cells.
@@ -20,6 +20,8 @@ Bland Chromatin: Texture of the cell's chromatin.
 Normal Nucleoli: Count of normal nucleoli.
 Mitoses: Count of mitotic cells.
 Class: Target variable (0 for benign, 1 for malignant).
+
+
 Project Details
 Data Splitting: The dataset is split into training and testing sets.
 Model Training: Linear SVM and Kernel SVM (with RBF and Linear kernels) models are trained on the data.
