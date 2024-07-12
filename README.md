@@ -27,3 +27,9 @@ Data Splitting: The dataset is split into training and testing sets.<br />
 Model Training: Linear SVM and Kernel SVM (with RBF and Linear kernels) models are trained on the data.<br />
 Hyperparameter Tuning: Hyperparameters for both models are finetuned to optimize performance.<br />
 Evaluation Metrics: Cross-validation training accuracy and testing accuracy are reported.<br />
+
+Files in the Repository<br />
+Breast_Cancer_Prediction.ipynb: Jupyter Notebook containing the code, model training, and evaluation.<br />
+Breast_Cancer_Prediction.html: HTML version of the Jupyter Notebook for easy viewing.<br />
+Breast-cancer.csv : dataset for the project.<br />
+README.md: Project overview and details (this file).<br />
