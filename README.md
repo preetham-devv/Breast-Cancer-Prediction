@@ -1,9 +1,9 @@
 # Breast-Cancer-Prediction
 Breast Cancer Prediction
 
-This repository contains the project for IT7103 – Assignment 4, focusing on the application of data analytics in healthcare informatics to predict breast cancer cases. The project utilizes Linear and Kernel (both RBF and Linear) Support Vector Machine (SVM) models to classify breast cancer cases as benign or malignant.
+This repository contains the project, focusing on the application of data analytics in healthcare informatics to predict breast cancer cases. The project utilizes Linear and Kernel (both RBF and Linear) Support Vector Machine (SVM) models to classify breast cancer cases as benign or malignant.
 
-Project Overview
+Project Overview<br />
 Breast cancer is a significant health concern, and early detection is crucial for effective treatment. This project aims to predict whether a breast cancer case is benign or malignant using machine learning techniques, specifically SVM models. The data consists of 699 recorded cases with 11 features, where the target variable indicates the class (0 for benign, 1 for malignant).
 
 Data Description
@@ -22,8 +22,8 @@ The dataset contains the following columns:<br />
 11.Class: Target variable (0 for benign, 1 for malignant).<br />
 
 
-Project Details
-Data Splitting: The dataset is split into training and testing sets.
-Model Training: Linear SVM and Kernel SVM (with RBF and Linear kernels) models are trained on the data.
-Hyperparameter Tuning: Hyperparameters for both models are finetuned to optimize performance.
-Evaluation Metrics: Cross-validation training accuracy and testing accuracy are reported.
+Project Details<br />
+Data Splitting: The dataset is split into training and testing sets.<br />
+Model Training: Linear SVM and Kernel SVM (with RBF and Linear kernels) models are trained on the data.<br />
+Hyperparameter Tuning: Hyperparameters for both models are finetuned to optimize performance.<br />
+Evaluation Metrics: Cross-validation training accuracy and testing accuracy are reported.<br />
